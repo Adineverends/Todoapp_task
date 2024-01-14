@@ -1,5 +1,5 @@
 <div align="center">
-    <h1> Notes App</h1>
+    <h1> Todo list App</h1>
 </div>
 
 <div align="center">
